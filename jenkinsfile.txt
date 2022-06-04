@@ -38,5 +38,4 @@ stages
     echo "This is Monitoring project run with Splunk tool ................"
    }
   }
-}
-}
+
